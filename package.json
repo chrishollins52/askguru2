@@ -1,0 +1,15 @@
+{
+  "name": "ask-guru-website",
+  "version": "1.0.0",
+  "description": "Ask Guru website for wave mastery and AI tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["waves", "360 waves", "grooming", "ai", "ask guru"],
+  "author": "Chris Hollins",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.11.0"
+  }
+}
